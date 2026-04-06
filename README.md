@@ -5,7 +5,7 @@
 The Fast-Food Order Record Management System is a Java-based command-line application designed to support the daily operation of a fast-food business. The system manages food ordering activities, menu administration, promotional code handling, receipt generation, and order record tracking through a role-based interface for staff and administrators.
 
 This project was developed as an academic programming exercise with the objective of applying object-oriented programming concepts, file handling, modular program structure, and user interaction design in a practical business scenario.
-
+ 
 ## 2. Project Goal
 
 The primary goal of this system is to provide a structured and efficient way to:
